@@ -1,0 +1,63 @@
+body {
+    background-image: url('https://www.goldleaf.com.au/image/cache/catalog/catalog/sennelier/pastels/soft-pastels/sennelier-soft-pastel-brown-ochre-122-500x500.jpg');
+}
+
+div#nameOutput{
+  background-color: azure;
+  padding: auto;
+  width: fit-content;
+  margin-top: 0.5cm;
+  font-family:monospace ;
+  font-size: 50%;
+}
+.col-md-8 {
+  margin-top: 1cm;;
+  padding-top: auto ;
+  font-family:monospace ;
+  font-size: 200%;
+  
+}
+input.form-control{
+  margin-left: 0.25%;
+  width: 50%;
+}
+
+.form-group{
+  margin-right: 20%;
+}
+
+#label0{
+  padding-left: 2%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#footer{
+  font-weight: 200;
+  font-family: bold;
+  margin-top: 5%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button#nextGame{
+margin-top: 30%;
+}
+ ul{
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1
+
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+li{
+  border-bottom: 1px solid #555
+}

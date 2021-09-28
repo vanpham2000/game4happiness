@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://opticalcortex.com/app/uploads/2014/08/grad.jpg);
+  }
+
+  #doge-meme-pic {
+    max-width: 200px;
+    height: 200px;
+    cursor : pointer;
+  }
+
+  #containment-wrapper{
+    height: 80vh;
+  }
+  
+  .button {background-color: #008CBA;} /* Blue */
